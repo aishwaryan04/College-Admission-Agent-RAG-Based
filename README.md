@@ -1,4 +1,4 @@
-# CollegeAdmissionBot
+# CollegeAdmissionAgent
 🎓 College Admission Agent (RAG-Based)
 
 An AI-powered chatbot that simplifies the college admission process by answering student queries using Retrieval-Augmented Generation (RAG). It retrieves real-time admission details like eligibility, fee structure, deadlines, and more from official sources and responds in natural language.
